@@ -1,6 +1,6 @@
 # Sarayu's Github Page Tri 3
 ## TPT 
-<table id="tpt">
+<table>
   <tr>
   <th>Week</th>
   <th>Topic</th>
