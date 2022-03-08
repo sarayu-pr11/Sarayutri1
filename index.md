@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Sarayu's Github Page Tri 3
 ## TPT 
 <table>
