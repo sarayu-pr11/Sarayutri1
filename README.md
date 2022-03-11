@@ -1,8 +1,89 @@
-# Time Box Tri 3
-## Primary deliverables for trimester:
-* Individual/Pair Algorithmic Project - every individual will manage their own Python project.  Replit deliverables with integrated GitHub version control are required.  Those who commit frequently and regularly will receive higher grades.  Requirements for this project will be provided via Tech Talks.
-* College Board Create Task - this project will be managed as individual or pair.  Each individual must work on and submit code according to College Board.  Ideas must be created by Individual or Individual/Pair collaboration.
-* PBL Customer Project - teams of four will work on a project throughout the trimester, this should be focus in all planning.  Recommendation is that you build or add to a project that was started in Trimester 1 or 2, or that you fork/extend an idea from CSP 2021 students.   It is highly advised to plan to incorporate algorithmic ideas and college board ideas into your final project.  Such planning will lead to leveraged and strategic implementation.  Teams that assign jobs, leverage work, and plan throughout the trimester will undoubtedly receive higher grades.  Requirements need to be approved by Project Owner, this job represents needs of Customer and must be someone outside of project team.
+# Team SAAS Readme
+## [Scrum Board](https://github.com/sarayu-pr11/team-avatar/projects/1?card_filter_query=assignee%3A)
+## [Github Repository](https://github.com/sarayu-pr11/team-avatar)
+
+***
+<table id="readmeinformation">
+
+<tr>
+<th>Tasks</th>
+<th>Contributors</th>
+<th>Github ID/ Profile</th>
+<th>Scrum Board</th>
+<th>Commits</th>
+<th>Pair Journal</th>
+</tr>
+
+<tr>
+<td>Sarayu</td>
+<td>
+<a href="https://github.com/sarayu-pr11" target="_blank">sarayu-pr11</a>
+</td>
+<td>
+<a href="https://github.com/sarayu-pr11/team-avatar/issues/assigned/sarayu-pr11" target="_blank">Tasks</a>
+</td>
+<td>
+<a href="https://github.com/sarayu-pr11/team-avatar/projects/1?card_filter_query=assignee%3Asarayu-pr11" target="_blank">Scrum Board</a>
+<td>
+<a href="https://github.com/sarayu-pr11/team-narks/commits?author=sarayu-pr11" target="_blank">Commits</a>
+</td>
+<td>
+<a href="https://docs.google.com/document/d/1S97_rP7HPPTj5MZeCIcP4AtwwZ15FzRRUY2SwV650ME/edit?usp=sharing" target="_blank">Sarayu Pair Journal</a>
+</td>
+</tr>
+
+<tr>
+<td>Riya</td>
+<td>
+<a href="https://github.com/ranand2445" target="_blank">ranand2445</a>
+</td>
+<td>
+<a href="https://github.com/sarayu-pr11/team-avatar/issues/assigned/ranand2445" target="_blank">Tasks</a>
+</td>
+<td>
+<a href="https://github.com/sarayu-pr11/team-avatar/projects/1?card_filter_query=assignee%3Aranand2445" target="_blank">Scrum Board</a>
+</td>
+<td>
+<a href="https://github.com/sarayu-pr11/team-avatar/commits/main" target="_blank">Commits</a>
+</td>
+<td>
+<a href="https://docs.google.com/document/d/1S97_rP7HPPTj5MZeCIcP4AtwwZ15FzRRUY2SwV650ME/edit?usp=sharing" target="_blank"> Riya Pair Journal</a>
+</td>
+
+</tr>
+<tr>
+<td>Kamryn</td>
+<td>
+<a href="https://github.com/kamryns" target="_blank">kamryns</a>
+</td>
+<td>
+<a href="https://github.com/sarayu-pr11/team-avatar/issues/assigned/kamryns" target="_blank">Tasks</a>
+</td>
+<td>
+<a href="https://github.com/sarayu-pr11/team-avatar/projects/1?card_filter_query=assignee%3Akamryns" target="_blank">Scrum Board</a>
+</td>
+<td>
+<a href="https://github.com/sarayu-pr11/team-avatar/commits/main" target="_blank">Commits</a>
+
+<td>
+<a href="https://docs.google.com/document/d/1pdjnMfCjmD8dSawsB4ij6OV4Vp2Igl_obz6Qeb1nFg0/edit?usp=sharing" target="_blank"> Kamryn Pair Journal</a>
+</td>
+</tr>
+
+<tr>
+<td>Natalie</td>
+<td>
+<a href="https://github.com/Natalie-Beckwith" target="_blank">Natalie-Beckwith</a>
+</td>
+<td>
+<a href="https://github.com/sarayu-pr11/team-avatar/issues/assigned/Natalie-Beckwith" target="_blank">Tasks</a>
+</td>
+<td>
+<a href="https://github.com/sarayu-pr11/team-avatar/projects/1?card_filter_query=assignee%3Anatalie-beckwith" target="_blank">Scrum Board</a>
+</td>
+<td>
+<a href="https://github.com/sarayu-pr11/team-avatar/commits/main" target="_blank">Commits</a>
+
 
 <table>
    <tr>
