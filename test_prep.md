@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## CB Notes
 ### 5.1
 * Multirotor
