@@ -1,3 +1,4 @@
+{% includes navigation.html %}
 ## Python Weekly Work
 <table>
   <tr>
