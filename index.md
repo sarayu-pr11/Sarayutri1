@@ -12,7 +12,6 @@
         <td>Tech Talk</td>
         <td>Review Ticket</td>
     </tr>
-  <table>
     <tr>
         <td>0</td>
         <td>March 7-11</td>
@@ -22,4 +21,3 @@
     </tr>
 </table>
 
-</table>
