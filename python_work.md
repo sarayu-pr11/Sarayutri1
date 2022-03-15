@@ -8,6 +8,6 @@
   <tr>
     <td>0</td>
     <td>Python Menus</td>
-    <td>https://replit.com/@sarayu-pr11/Sarayutri1#hacks/menu.py</td>
+    <td><a href="https://replit.com/@sarayu-pr11/Sarayutri1#hacks/menu.py">Replit</a></td>
   </tr>
 </table>
