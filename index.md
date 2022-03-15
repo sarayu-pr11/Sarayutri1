@@ -17,7 +17,6 @@
         <td>Innovation Week: College Board Create Task, Individual/Pair Algorithmic Project, PBL Customer Project</td>
         <td>TPT 5.1-5.2</td>
         <td>Python Menus</td>
-        <td></td>
         <td><a href="https://github.com/sarayu-pr11/sarayu_individual/issues/1">Review Ticket</a></td>
     </tr>
 </table>
