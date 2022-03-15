@@ -1,6 +1,7 @@
-# [Video](https://www.loom.com/share/944719199555433e860f734f174e48fd)
+{% include navigation.html %}
+## [Video](https://www.loom.com/share/944719199555433e860f734f174e48fd)
 
-# Prompts
+## Prompts
 3a)
 * i. The overall purpose of my program is to simulate a trivia/jeopardy style game where users can choose their difficulty level and answer a random question.
 * ii. In the video, I demonstrate the entire program, as I go through each difficulty and how the score updates.
