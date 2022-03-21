@@ -17,7 +17,7 @@
         <td>Lists and Loops</td>
         <td>TPT 5.3-5.4 </td>
         <td>Lists and Loops</td>
-        <td><a href="https://github.com/sarayu-pr11/sarayu_individual/issues/2"><Review Ticket</a></td>
+        <td><a href="https://github.com/sarayu-pr11/sarayu_individual/issues/2">Review Ticket</a></td>
     </tr>
     <tr>
         <td>0</td>
