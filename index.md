@@ -12,6 +12,14 @@
         <td>Review Ticket</td>
     </tr>
     <tr>
+        <td>1</td>
+        <td>March 14-18</td>
+        <td>Lists and Loops</td>
+        <td>TPT 5.3-5.4 </td>
+        <td>Lists and Loops</td>
+        <td><a hred="https://github.com/sarayu-pr11/sarayu_individual/issues/2"><Review Ticket</a></td>
+    </tr>
+    <tr>
         <td>0</td>
         <td>March 7-11</td>
         <td>Innovation Week: College Board Create Task, Individual/Pair Algorithmic Project, PBL Customer Project</td>
