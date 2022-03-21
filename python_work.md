@@ -15,8 +15,7 @@
   </tr>
  </table>
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@sarayu-pr11/Sarayutri1#hacks/main.pyd?lite=true"></iframe>
-
+<iframe height="1000px" width="600px" src="https://replit.com/@sarayu-pr11/Sarayutri1#hacks/main.py"></iframe>
  <table>
   <tr>
     <td>0</td>
