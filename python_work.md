@@ -4,11 +4,22 @@
   <tr>
     <td>Week</td>
     <td>Topic</td>
-    <td>Replit</td>
   </tr>
+ </table>
+ 
+ 
+ <table>
+  <tr>
+    <td>1</td>
+    <td>Lists and Loops </td>
+  </tr>
+ </table>
+
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@sarayu-pr11/Sarayutri1#hacks/main.pyd?lite=true"></iframe>
+
+ <table>
   <tr>
     <td>0</td>
     <td>Python Menus</td>
-    <td><a href="https://replit.com/@sarayu-pr11/Sarayutri1#hacks/menu.py">Replit</a></td>
   </tr>
 </table>
