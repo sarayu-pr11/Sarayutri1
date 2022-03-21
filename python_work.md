@@ -1,5 +1,6 @@
 {% include navigation.html %}
 ## Python Weekly Work
+## [Replit](https://replit.com/@sarayu-pr11/Sarayutri1#hacks/main.py)
 <table>
   <tr>
     <td>Week</td>
