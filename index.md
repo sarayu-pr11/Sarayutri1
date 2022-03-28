@@ -10,8 +10,7 @@
         <td>Test Prep </td>
         <td>Tech Talk</td>
         <td>Review Ticket</td>
-    </tr>
-    <tr>
+    </tr> <tr>
         <td>2</td>
         <td>March 21-25</td>
         <td>Python Class programming</td>
@@ -19,7 +18,6 @@
         <td>Classy Functions</td>
         <td><a href="https://github.com/sarayu-pr11/sarayu_individual/issues/3">Review Ticket</a></td>
     </tr>
-        
     <tr>
         <td>1</td>
         <td>March 14-18</td>
