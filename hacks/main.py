@@ -6,7 +6,7 @@ from swap import swapnumbers
 from tree import create_tree, grow_tree
 from lists import lists_tester
 from fibonacci import tester
-
+from week2 import factorial, mathfactors
 main_menu = [
   
 ]
@@ -21,8 +21,13 @@ animations_sub_menu = [
     ["Christmas Tree", grow_tree],
 ]
 listandloops_sub_menu = [
-    ["List", lists_tester],
+    ["Lists", lists_tester] ,
     ["Fibonacci", tester],
+]
+
+classfunctions_sub_menu = [
+  ["Factorial", factorial.tester],
+  ["Math Funtion", mathfactors.testinput]
 ]
 # Menu banner is typically defined by menu owner
 border = "=" * 25
@@ -38,6 +43,7 @@ def menu():
     menu_list.append(["Trimester 2", submenu])
     menu_list.append(["Week 0", animations_submenu])
     menu_list.append(["Week 1", listandloops_submenu])
+    menu_list.append(["Week 2", classfunctions_submenu])
 
     buildMenu(title, menu_list)
 
@@ -55,6 +61,10 @@ def animations_submenu():
 def listandloops_submenu():
     title = "Function Submenu" + banner
     buildMenu(title, listandloops_sub_menu)
+
+def classfunctions_submenu():
+    title = "Function Submenu" + banner
+    buildMenu(title, classfunctions_sub_menu)
   
 def buildMenu(banner, options):
     # header for menu
