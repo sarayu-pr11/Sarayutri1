@@ -18,6 +18,45 @@
   <tr>
     <td>1</td>
     <td>Lists and Loops </td>
+    <td>
+      <pre>
+      <code>
+      nterms = int(input("number of Terms? "))
+    if nterms <= 0: 
+      print("please enter a positive integer")
+    else:
+        print("fibonacci sequence:")
+        for i in range(nterms):
+          print(recur_fibonacci(i))
+       </code>
+       </pre>
+     </td>
+        <td>
+      <pre>
+      <code>
+      def for_loop():
+    for n in range(len(InfoDb)):
+      </code>
+      </pre>
+    </td>
+    <td>
+      <pre>
+      <code>
+      while n < len(InfoDb):
+        print_data(n)
+        n += 1
+      </code>
+      </pre>
+    </td>
+    <td>
+      <pre>
+      <code>
+      if n < len(InfoDb):
+        print_data(n)
+        recursive_loop(n + 1)
+      </code>
+      </pre>
+    </td>
       
   </tr>
  </table>
