@@ -12,6 +12,27 @@
   <tr>
     <td>2</td>
     <td>Classes and OOP Programming</td>
+    <td>
+      <pre>
+      <code>
+      while True:
+        factorial_of = Factorial()
+      if n <=0:
+                raise ValueError
+      print(f"Factorial sequence of {n} terms is: ", [factorial_of(i) for i in range(n)])
+       </code>
+       </pre>
+     </td>
+      <td>
+      <pre>
+      <code>
+      def __call__(self, n):
+      for i in range (1, n + 1):
+        if n % i == 0:
+            self.factors.append(i)
+       </code>
+       </pre>
+     </td>
   </tr>
  </table>
  <table>
