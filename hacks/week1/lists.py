@@ -38,7 +38,7 @@ def print_data(n):
     print("\t", "Class: ", end="")
     print(", ".join(InfoDb[n]["Class"]))
     print()
-
+#defines the data that needs to be retrieved
 
 def lists_tester():
     print("||    For loop   ||")
@@ -48,7 +48,9 @@ def lists_tester():
     print("||   Recursive loop   ||")
     recursive_loop(0)
 
-  
+#prints all the loops in order
+
+
 def for_loop():
     for n in range(len(InfoDb)):
         print_data(n)

@@ -1,33 +1,32 @@
 import time
-from ship import ship
-from candle import candle
-from keypad import matrix
-from swap import swapnumbers
-from tree import create_tree, grow_tree
-from lists import lists_tester
-from fibonacci import tester
+# from ship import ship
+# from candle import candle
+# from keypad import matrix
+# from swap import swapnumbers
+# from tree import create_tree, grow_tree
+# from lists import lists_tester
+# from fibonacci import tester
 from week2 import factorial, mathfactors
+from week1 import lists, fibonacci
+from week0 import keypad, swap, tree, candle, ship
 main_menu = [
   
 ]
 sub_menu = [
-    ["Swap", swapnumbers],
-    ["Matrix", matrix],
+    ["Swap", swap.swapnumbers],
+    ["Matrix", keypad.matrix],
+    ["Ship", ship.ship],
+    ["Candle", candle.candle],
+    ["Christmas Tree", tree.grow_tree],
 ]
 
 animations_sub_menu = [
-    ["Ship", ship],
-    ["Candle", candle],
-    ["Christmas Tree", grow_tree],
+    ["Lists", lists.lists_tester] ,
+    ["Fibonacci", fibonacci.tester],
 ]
 listandloops_sub_menu = [
-    ["Lists", lists_tester] ,
-    ["Fibonacci", tester],
-]
-
-classfunctions_sub_menu = [
-  ["Factorial", factorial.tester],
-  ["Math Funtion", mathfactors.testinput]
+    ["Factorial", factorial.tester],
+    ["Math Funtion", mathfactors.testinput]
 ]
 # Menu banner is typically defined by menu owner
 border = "=" * 25
@@ -40,10 +39,9 @@ banner = f"\n{border}\nPlease Select An Option\n{border}"
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Trimester 2", submenu])
-    menu_list.append(["Week 0", animations_submenu])
-    menu_list.append(["Week 1", listandloops_submenu])
-    menu_list.append(["Week 2", classfunctions_submenu])
+    menu_list.append(["Week 0", submenu])
+    menu_list.append(["Week 1", animations_submenu])
+    menu_list.append(["Week 2", listandloops_submenu])
 
     buildMenu(title, menu_list)
 
@@ -61,10 +59,6 @@ def animations_submenu():
 def listandloops_submenu():
     title = "Function Submenu" + banner
     buildMenu(title, listandloops_sub_menu)
-
-def classfunctions_submenu():
-    title = "Function Submenu" + banner
-    buildMenu(title, classfunctions_sub_menu)
   
 def buildMenu(banner, options):
     # header for menu

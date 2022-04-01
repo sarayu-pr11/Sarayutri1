@@ -1,4 +1,3 @@
-#basic recursion and implimentation of fibonacci pattern
 def recur_fibonacci(n):
   if n<=1:
     return n
@@ -8,11 +7,11 @@ def recur_fibonacci(n):
     
 def tester():
   try:
-    nterms = int(input("Number of Terms? "))
+    nterms = int(input("number of Terms? "))
     if nterms <= 0: #only prints postive terms
       print("please enter a positive integer")
     else: #goes through each term and prints recursively
-        print("Fibonacci sequence:")
+        print("fibonacci sequence:")
         for i in range(nterms):
           print(recur_fibonacci(i))
   except ValueError: #error message
