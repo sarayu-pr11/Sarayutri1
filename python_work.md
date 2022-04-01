@@ -18,8 +18,10 @@
   <tr>
     <td>1</td>
     <td>Lists and Loops </td>
-    <td><code>
-      def candle_print(position):
+  </tr>
+ </table>
+ <code>
+ def candle_print(position):
     print(ANSI_HOME_CURSOR)
     print(RESET_COLOR)
     sp = " " * position
@@ -29,10 +31,7 @@
     print(sp + "--[  ]--")
     print(sp + "--[__]--")
     print(RESET_COLOR)
-    <\code></td>
-  </tr>
- </table>
-
+</code>
 <iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@sarayu-pr11/Sarayutri1?lite=true#hacks/main.py">
 </iframe> <table>
   <tr>
