@@ -18,6 +18,19 @@
   <tr>
     <td>1</td>
     <td>Lists and Loops </td>
+    <td>
+    ```
+      def candle_print(position):
+    print(ANSI_HOME_CURSOR)
+    print(RESET_COLOR)
+    sp = " " * position
+    print(sp + "---()---")
+    print(sp + "--[  ]--")
+    print(SHIP_COLOR, end="")
+    print(sp + "--[  ]--")
+    print(sp + "--[__]--")
+    print(RESET_COLOR)
+   ```
   </tr>
  </table>
 
