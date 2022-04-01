@@ -18,8 +18,7 @@
   <tr>
     <td>1</td>
     <td>Lists and Loops </td>
-    <td>
-    ```
+    <td><code>
       def candle_print(position):
     print(ANSI_HOME_CURSOR)
     print(RESET_COLOR)
@@ -30,7 +29,7 @@
     print(sp + "--[  ]--")
     print(sp + "--[__]--")
     print(RESET_COLOR)
-   ```
+    <\code></td>
   </tr>
  </table>
 
