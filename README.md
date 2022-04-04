@@ -1,4 +1,4 @@
-## Sarayu's Individual Replit
+## Sarayu's Individual GitHub Repository
 
 <div id="top"></div>
 
@@ -56,7 +56,7 @@ Python and READme.md
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Projects 
+[Replit Link](https://replit.com/@sarayu-pr11/Sarayutri1?from=notifications#hacks/week0/candle.py) 
 
 ### Coding By Weeks
 * [Week 0](https://github.com/sarayu-pr11/sarayu_individual/tree/master/hacks/week0)
