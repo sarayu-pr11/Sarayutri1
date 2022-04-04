@@ -8,7 +8,7 @@ import time
 # from fibonacci import tester
 from week2 import factorial, mathfactors
 from week1 import lists, fibonacci
-from week0 import keypad, swap, tree, candle, ship
+from week0 import keypad, swap, tree, candle, ship, frog
 main_menu = [
   
 ]
@@ -18,6 +18,7 @@ sub_menu = [
     ["Ship", ship.ship],
     ["Candle", candle.candle],
     ["Christmas Tree", tree.grow_tree],
+    ["Froggy", frog.frog],
 ]
 
 animations_sub_menu = [
